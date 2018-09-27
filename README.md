@@ -2,4 +2,4 @@
 Special workshops on data mining by TA Yingjun.
 
  - 09/25 DT inclass tutorial
- - to be continued...
+ - Linear Regression model discussion. Date and Location TBD
