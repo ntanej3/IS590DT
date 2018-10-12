@@ -15,4 +15,4 @@ Attention:
 Memo:
  - Using bbc, to make it a hybrid class (both online and in-class)
  - Using records for students who cannot make it.
- - Update my channel on Youtube.
+ - Update my channel on Youtube [https://www.youtube.com/watch?v=TCC57fzLTAM&t=7s]
