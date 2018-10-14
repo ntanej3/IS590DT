@@ -11,11 +11,18 @@ Special workshops on data mining by TA Yingjun.
  - 10/? Lab session on Feature Engineering? TBD.
 
 Topic list (through feedback and other communications)
-1. Neural Network
-2. K-Means
-3. SVM
-4. LDA
-5. NB
-6. Deep Learning And GAN
-
+1. ml models and algorithms
+- Neural Network
+-  K-Means
+-  SVM
+-  LDA
+-  NB
+-  Deep Learning And GAN
+2. platforms
+- github
+- reddit
+- kaggle
+- arxiv
+3. Journals & Conferences
+4. Big Names, celebrities, and anecdotes.
 
