@@ -4,12 +4,12 @@
 
 This lab contains both the lecture and some hands-on exercise (in R).
 
- - overiew intro on data mining algorithms. (sharing the cheatsheet)
- - brief intro to EM and VEM.
- - example on EM (?)
- - intro to LDA (try as clear as I can)
- - R implementation of LDA.
- - Q & A
+ - overiew intro on data mining algorithms. (sharing the cheatsheet) - _5min_
+ - brief intro to EM and VEM. - _10min_
+ - example on EM (?) 
+ - intro to LDA (try as clear as I can) _15min_
+ - R implementation of LDA. _15min_
+ - Q & A _5min_
  
 References:
 
