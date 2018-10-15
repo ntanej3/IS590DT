@@ -1,23 +1,29 @@
-## Date: 10/18/2018
-## Time: 16:40 - 17:30
-## Topic: Expectation-Maximazation (EM) & Latent Dirichlet Allocation (LDA)
+### Date: 10/18/2018
+### Time: 16:40 - 17:30
+### Topic: Expectation-Maximazation (EM) & Latent Dirichlet Allocation (LDA)
 
 This lab contains both the lecture and some hands-on exercise (in R).
 
- - Expectation
+ - overiew intro on data mining algorithms. (sharing the cheatsheet)
+ - brief intro to EM and VEM.
+ - example on EM (?)
+ - intro to LDA (try as clear as I can)
+ - R implementation of LDA.
+ - Q & A
  
- 
- 
+References:
+
+1. LDA algorithm description on Youtube
+https://www.youtube.com/watch?v=DWJYZq_fQ2A&feature=youtu.be
+
+2. intro to EM on Youtube
+https://www.youtube.com/watch?v=REypj2sy_5U
+
+3. Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022.
+
+4. https://www.tidytextmining.com/topicmodeling.html
  
 
-concepts / targets.
-RSS calculation
-geometry understanding
-R example. (Boston house price)
-Attention:
-
-I might need extra preparation on R implementations.
-cautions students in advance on R and time for the lab. (better before or on Mon.)
 Memo:
 
 Using bbc, to make it a hybrid class (both online and in-class)
